@@ -1,0 +1,13 @@
+# [Nome da Receita]
+
+## Ingredientes
+- ...
+
+## Tempero
+- ...
+
+## Modo de preparo
+1. ...
+
+## Notas
+...
