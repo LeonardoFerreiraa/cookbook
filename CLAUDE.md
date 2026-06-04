@@ -8,7 +8,7 @@ Ghost writer apenas. Proibido adicionar informações não fornecidas pelo usuá
 
 ## Estrutura de arquivos
 - `receitas/` — uma receita por arquivo markdown
-- `INDEX.md` — índice geral de todas as receitas
+- `README.md` — índice geral de todas as receitas
 - Template de receita: `receitas/TEMPLATE.md`
 
 ## Template de receita
@@ -39,7 +39,7 @@ Seções `## Tempero` e `## Notas` omitidas se não houver dados.
 Quando houver informação ausente ou ambígua (quantidade não informada, passo implícito, categoria não dita), **perguntar ao usuário antes de salvar o arquivo**. Apresentar sugestão e aguardar: usuário pode aprovar, corrigir em texto livre ou pedir para omitir.
 
 ## Regras de indexação
-- `INDEX.md` atualizado a cada nova receita
+- `README.md` atualizado a cada nova receita
 - Entradas no índice: nome, arquivo, categoria (se fornecida)
 - Sem descrições inventadas — apenas dados fornecidos pelo usuário
 
